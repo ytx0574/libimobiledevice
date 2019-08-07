@@ -58,7 +58,7 @@ By default, OpenSSL will be used. If you prefer GnuTLS, configure with
 	brew install --HEAD usbmuxd
 	brew unlink usbmuxd
 	brew link usbmuxd
-	brew install --HEAD libimobiledevice
+	#brew install --HEAD libimobiledevice
 ###
 2.gnutls缺失
 ###
